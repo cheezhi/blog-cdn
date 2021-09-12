@@ -358,37 +358,53 @@
             }
         ]
     },
-    "岁纳京子": {
+    "正太": {
         "type": "image",
         "container": [
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz1.jpg\">",
-                "text": "face1"
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/1.jpg\">",
+                "text": "boy1"
             },
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz2.gif\">",
-                "text": "face2"
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/2.jpg\">",
+                "text": "boy2"
             },
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz3.gif\">",
-                "text": "face3"
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/3.jpg\">",
+                "text": "boy3"
             },
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz4.gif\">",
-                "text": "face4"
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/4.jpg\">",
+                "text": "boy4"
             },
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz5.jpg\">",
-                "text": "face5"
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/5.jpg\">",
+                "text": "boy5"
             },
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz6.gif\">",
-                "text": "face6"
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/6.png\">",
+                "text": "good3"
             },
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz7.jpg\">",
-                "text": "face6"
-            }
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/7.gif\">",
+                "text": "boy6"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/8.jpg\">",
+                "text": "boy7"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/9.gif\">",
+                "text": "boy8"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/10.gif\">",
+                "text": "boy9"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/11.jpg\">",
+                "text": "boy10"
+            },
         ]
     }
 }
