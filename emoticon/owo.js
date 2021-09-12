@@ -404,7 +404,7 @@
             {
                 "icon": "<img src=\"//cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/emoticon/LittleBoy/11.jpg\">",
                 "text": "boy10"
-            },
+            }
         ]
     }
 }
